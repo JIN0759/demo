@@ -17,7 +17,7 @@ namespace pangzi
 
 // use admin\pangzi
 
-echo "This is 超级小可爱\'s file.";
+echo "This is 超级小可爱2333\'s file.";
 // https://tiffanybbrown.com/2017/06/using-multiple-ssh-keys-with-github/index.html
 // https://stackoverflow.com/questions/29023532/how-do-i-use-multiple-ssh-keys-on-github
 // Host user1-github
