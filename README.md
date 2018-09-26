@@ -10,16 +10,24 @@ https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
 
 # Attention:
 If you want to push to github.com, use:
-$ git push origin master:master 
+`$ git push origin master:master `
 
 Or: 
 comment this line on ~/.gitconfig 
 
     #push = refs/heads/master:refs/for/master
 
-# research
+# Research
 https://guides.github.com/introduction/flow/ Understanding the GitHub flow
 
 http://scottchacon.com/2011/08/31/github-flow.html  Issues with git-flow
 
 https://services.github.com/on-demand/downloads/subversion-migration/ Migrating SVN2Git Utility
+
+# How
+How to write README file on github.com?
+
+# branch dev
+`git co -b dev origin/dev ; vim README.md `
+
+`git ci -am 'modify readme from dev' ; git push origin dev `
