@@ -10,7 +10,7 @@ https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
 
 # Attention:
 If you want to push to github.com, use:
-$ git push origin master:master 
+`$ git push origin master:master `
 
 Or: 
 comment this line on ~/.gitconfig 
