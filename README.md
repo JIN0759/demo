@@ -10,6 +10,8 @@ https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 
 #########################
 # Attention:
-If you want to push to github.com 
-use:
+If you want to push to github.com, use:
 $ git push origin master:master 
+Or: 
+comment this line on ~/.gitconfig 
+    #push = refs/heads/master:refs/for/master
