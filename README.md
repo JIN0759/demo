@@ -17,9 +17,12 @@ comment this line on ~/.gitconfig
 
     #push = refs/heads/master:refs/for/master
 
-# research
+# Research
 https://guides.github.com/introduction/flow/ Understanding the GitHub flow
 
 http://scottchacon.com/2011/08/31/github-flow.html  Issues with git-flow
 
 https://services.github.com/on-demand/downloads/subversion-migration/ Migrating SVN2Git Utility
+
+# How
+How to write README file on github.com?
