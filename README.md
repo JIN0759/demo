@@ -19,14 +19,14 @@ comment this line on ~/.gitconfig
     #push = refs/heads/master:refs/for/master
 
 # Research
-[Understanding the GitHub flow](https://guides.github.com/introduction/flow/){:target="_blank"}
+[Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 
-[Issues with git-flow](http://scottchacon.com/2011/08/31/github-flow.html){:target="_blank"}
+[Issues with git-flow](http://scottchacon.com/2011/08/31/github-flow.html)
 
-[Migrating SVN2Git Utility](https://services.github.com/on-demand/downloads/subversion-migration/){:target="_blank"}
+[Migrating SVN2Git Utility](https://services.github.com/on-demand/downloads/subversion-migration/)
 
 # How
-[How to write README file on github.com? ](https://help.github.com/articles/basic-writing-and-formatting-syntax/){:target="_blank"}
+[How to write README file on github.com? ](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 # branch dev
 ```shell
