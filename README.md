@@ -6,7 +6,8 @@ git version 2.19.0
 
 <a href="https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository" target="_blank">2.1 Git Basics - Getting a Git Repository</a>
 
-[2.1 Git Basics - Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+"title" target="_blank"
+[2.1 Git Basics - Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository "title" target="_blank")
 
 # Attention:
 If you want to push to github.com, use:
