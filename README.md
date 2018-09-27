@@ -33,3 +33,8 @@ vim README.md
 git ci -am 'modify readme from dev'
 git push origin dev
 ```
+
+# Syntax highlighting
+```php
+echo "test pull request.";
+```
