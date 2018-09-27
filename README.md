@@ -27,7 +27,7 @@ comment this line on ~/.gitconfig
 [How to write README file on github.com? ](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 # branch dev
-```
+```shell
 git co -b dev origin/dev 
 vim README.md 
 git ci -am 'modify readme from dev'
