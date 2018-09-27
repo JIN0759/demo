@@ -25,9 +25,13 @@ http://scottchacon.com/2011/08/31/github-flow.html  Issues with git-flow
 https://services.github.com/on-demand/downloads/subversion-migration/ Migrating SVN2Git Utility
 
 # How
-How to write README file on github.com?
+How to write README file on github.com? 
+https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 # branch dev
-`git co -b dev origin/dev ; vim README.md `
-
-`git ci -am 'modify readme from dev' ; git push origin dev `
+```
+git co -b dev origin/dev 
+vim README.md 
+git ci -am 'modify readme from dev'
+git push origin dev
+```
